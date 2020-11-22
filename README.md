@@ -23,7 +23,6 @@ As mentioned earlier, I am the Co founder, Co-CEO and lead developer of a game r
 [<img src="https://www.halberesford.com/content/images/2018/07/null.png" width="1" height="1">]()
 
 ***
-## Reach out to me:
 
 ### GitHub Statistics
 ![Achintya's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=achintya-dass&show_icons=true&theme=dark)
