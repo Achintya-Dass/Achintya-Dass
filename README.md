@@ -1,5 +1,5 @@
 # Achintya Dass 
-Hello! I am `Achintya Dass`, a 13 year old abitious programmer. I am interested in making video games using `Unity 3D` (using C#), I like making websites using `HTML`, `CSS` and `JavaScript`. I enjoy learning new languages as well. I have a `python` certificate from coursera, and have come 2nd and 4th in a hackathon and a tech-related investor panel respectively and have earned around `$270` through those means. I am the lead developer and CO-CEO of a game solution company called `EaglEYE Games`. I study at `Neev Academy, India`. I hope to learn different languages to help change the world.
+Hello! I am `Achintya Dass`, a 14 year old abitious programmer. I am interested in making video games using `Unity 3D` (using C#), I like making websites using `HTML`, `CSS` and `JavaScript`. I enjoy learning new languages as well. I have a `python` certificate from coursera, and have come 2nd and 4th in a hackathon and a tech-related investor panel respectively and have earned around `$270` through those means. I am the lead developer and CO-CEO of a game solution company called `EaglEYE Games`. I study at `Neev Academy, India`. I hope to learn different languages to help change the world.
 
 - 🔭 I’m currently working on a C# game called `SuperJump`
 - 🌱 I’m currently learning how to make a multiplayer video games
